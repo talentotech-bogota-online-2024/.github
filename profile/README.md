@@ -5,7 +5,7 @@
 
 # Recursos Compartidos por la comunidad:
 ## Live del evento de talento tech
-- ![image](https://github.com/talentotech-bogota-online-2024/.github/assets/68284467/f32d4fb3-e404-49ad-ab4d-3416aeabdf28){height=250px} [Youtube](https://www.youtube.com/watch?v=IczxKjexck4)
+- <img src="https://github.com/talentotech-bogota-online-2024/.github/assets/68284467/f32d4fb3-e404-49ad-ab4d-3416aeabdf28" width="15" height="15"> [Youtube](https://www.youtube.com/watch?v=IczxKjexck4)
 ## Visual Studio Code
 - [Download](https://code.visualstudio.com/download)
 ## Live Share
