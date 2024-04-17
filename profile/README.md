@@ -4,6 +4,8 @@
 
 
 # Recursos Compartidos por la comunidad:
+## Live del evento de talento tech
+- [Youtube](https://www.youtube.com/watch?v=IczxKjexck4)
 ## Visual Studio Code
 - [Download](https://code.visualstudio.com/download)
 ## Live Share
